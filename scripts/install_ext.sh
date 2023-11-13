@@ -1,4 +1,4 @@
-pip install ./freqencoder
-pip install ./shencoder
-pip install ./gridencoder
-pip install ./raymarching
+pip install -v ./freqencoder
+pip install -v ./shencoder
+pip install -v ./gridencoder
+pip install -v ./raymarching
